@@ -1,0 +1,68 @@
+.navbar-brand{
+    padding: 10px 6px;
+}
+
+footer{
+    background-color: #000000;
+    margin-top: 30px
+}
+
+.row{
+    margin-top: 30px;
+    margin-left: 110px;
+}
+
+.copyright{
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+footer a{
+    color: white;
+}
+
+.text1{
+	color: white;
+	font-weight: bold;
+}
+
+.content{
+	margin: 0px 40px 0px;
+}
+
+.img1{
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    margin-top: 40px;
+    padding: 0px 20px 10px 20px;
+    border-radius: 25px solid #000000;
+    background-color: #e7e7e7;
+}
+
+#desc{
+  width: 280px;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+
+.cover{
+	padding-top: 30px;
+	width: 280px;
+    height: 280px;
+	object-fit: cover;
+}
+
+.box{
+	position: fixed;
+	right: 0;
+	bottom: 20%;
+}
+button{
+    background-color:rgba(0,0,0,0);
+    border: 1px solid rgba(0,0,0,0); 
+}
+
